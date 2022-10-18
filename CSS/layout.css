@@ -164,7 +164,7 @@ header{
      
 }
 .card_pg a:hover{
-    transform:scale(1.2,1.1);
+    transform:scale(1.1,1.1);
 }
 .card_pg a{
     text-decoration: none;
